@@ -1,0 +1,38 @@
+C:\Users\cesarernesto\Documents\Ciclo 02 2017\Maze1\Maze1\Maze1\bin\Debug\Maze1.exe.config
+C:\Users\cesarernesto\Documents\Ciclo 02 2017\Maze1\Maze1\Maze1\obj\Debug\Maze1.csprojResolveAssemblyReference.cache
+C:\Users\cesarernesto\Documents\Ciclo 02 2017\Maze1\Maze1\Maze1\bin\Debug\csfml-audio-2.dll
+C:\Users\cesarernesto\Documents\Ciclo 02 2017\Maze1\Maze1\Maze1\bin\Debug\csfml-graphics-2.dll
+C:\Users\cesarernesto\Documents\Ciclo 02 2017\Maze1\Maze1\Maze1\bin\Debug\csfml-system-2.dll
+C:\Users\cesarernesto\Documents\Ciclo 02 2017\Maze1\Maze1\Maze1\bin\Debug\csfml-window-2.dll
+C:\Users\cesarernesto\Documents\Ciclo 02 2017\Maze1\Maze1\Maze1\bin\Debug\openal32.dll
+C:\Users\cesarernesto\Documents\Ciclo 02 2017\Maze1\Maze1\Maze1\bin\Debug\csfml-network-2.dll
+C:\Users\cesarernesto\Documents\Ciclo 02 2017\Maze1\Maze1\Maze1\bin\Debug\libsndfile-1.dll
+C:\Users\cesarernesto\Documents\Ciclo 02 2017\Maze1\Maze1\Maze1\bin\Debug\Maze1.exe
+C:\Users\cesarernesto\Documents\Ciclo 02 2017\Maze1\Maze1\Maze1\bin\Debug\Maze1.pdb
+C:\Users\cesarernesto\Documents\Ciclo 02 2017\Maze1\Maze1\Maze1\bin\Debug\Otter.dll
+C:\Users\cesarernesto\Documents\Ciclo 02 2017\Maze1\Maze1\Maze1\bin\Debug\sfmlnet-graphics-2.dll
+C:\Users\cesarernesto\Documents\Ciclo 02 2017\Maze1\Maze1\Maze1\bin\Debug\sfmlnet-window-2.dll
+C:\Users\cesarernesto\Documents\Ciclo 02 2017\Maze1\Maze1\Maze1\bin\Debug\sfmlnet-system-2.dll
+C:\Users\cesarernesto\Documents\Ciclo 02 2017\Maze1\Maze1\Maze1\bin\Debug\sfmlnet-audio-2.dll
+C:\Users\cesarernesto\Documents\Ciclo 02 2017\Maze1\Maze1\Maze1\bin\Debug\Otter.pdb
+C:\Users\cesarernesto\Documents\Ciclo 02 2017\Maze1\Maze1\Maze1\obj\Debug\Maze1.exe
+C:\Users\cesarernesto\Documents\Ciclo 02 2017\Maze1\Maze1\Maze1\obj\Debug\Maze1.pdb
+C:\Users\cesarernesto\Documents\Ciclo 02 2017\Maze1 - copia\Maze1\Maze1\bin\Debug\Maze1.exe.config
+C:\Users\cesarernesto\Documents\Ciclo 02 2017\Maze1 - copia\Maze1\Maze1\obj\Debug\Maze1.exe
+C:\Users\cesarernesto\Documents\Ciclo 02 2017\Maze1 - copia\Maze1\Maze1\obj\Debug\Maze1.pdb
+C:\Users\cesarernesto\Documents\Ciclo 02 2017\Maze1 - copia\Maze1\Maze1\obj\Debug\Maze1.csprojResolveAssemblyReference.cache
+C:\Users\cesarernesto\Documents\Ciclo 02 2017\Maze1 - copia\Maze1\Maze1\bin\Debug\csfml-audio-2.dll
+C:\Users\cesarernesto\Documents\Ciclo 02 2017\Maze1 - copia\Maze1\Maze1\bin\Debug\csfml-graphics-2.dll
+C:\Users\cesarernesto\Documents\Ciclo 02 2017\Maze1 - copia\Maze1\Maze1\bin\Debug\csfml-system-2.dll
+C:\Users\cesarernesto\Documents\Ciclo 02 2017\Maze1 - copia\Maze1\Maze1\bin\Debug\csfml-window-2.dll
+C:\Users\cesarernesto\Documents\Ciclo 02 2017\Maze1 - copia\Maze1\Maze1\bin\Debug\openal32.dll
+C:\Users\cesarernesto\Documents\Ciclo 02 2017\Maze1 - copia\Maze1\Maze1\bin\Debug\csfml-network-2.dll
+C:\Users\cesarernesto\Documents\Ciclo 02 2017\Maze1 - copia\Maze1\Maze1\bin\Debug\libsndfile-1.dll
+C:\Users\cesarernesto\Documents\Ciclo 02 2017\Maze1 - copia\Maze1\Maze1\bin\Debug\Maze1.exe
+C:\Users\cesarernesto\Documents\Ciclo 02 2017\Maze1 - copia\Maze1\Maze1\bin\Debug\Maze1.pdb
+C:\Users\cesarernesto\Documents\Ciclo 02 2017\Maze1 - copia\Maze1\Maze1\bin\Debug\Otter.dll
+C:\Users\cesarernesto\Documents\Ciclo 02 2017\Maze1 - copia\Maze1\Maze1\bin\Debug\sfmlnet-graphics-2.dll
+C:\Users\cesarernesto\Documents\Ciclo 02 2017\Maze1 - copia\Maze1\Maze1\bin\Debug\sfmlnet-window-2.dll
+C:\Users\cesarernesto\Documents\Ciclo 02 2017\Maze1 - copia\Maze1\Maze1\bin\Debug\sfmlnet-system-2.dll
+C:\Users\cesarernesto\Documents\Ciclo 02 2017\Maze1 - copia\Maze1\Maze1\bin\Debug\sfmlnet-audio-2.dll
+C:\Users\cesarernesto\Documents\Ciclo 02 2017\Maze1 - copia\Maze1\Maze1\bin\Debug\Otter.pdb
