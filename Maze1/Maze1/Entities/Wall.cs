@@ -9,6 +9,7 @@ namespace Maze1.Entities
 {
     class Wall:Entity
     {
+        //Paredes
         public bool estado;
         public Wall(float x, float y, int w, int h):base(x,y) {
             estado = true;

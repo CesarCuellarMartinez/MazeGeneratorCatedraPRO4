@@ -9,6 +9,6 @@ namespace Maze1.Games
 {
     class MyGame:Game
     {
-
+        //Guarda?
     }
 }

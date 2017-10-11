@@ -47,8 +47,8 @@ namespace Maze1
             Player p2 = new Player(Global.PlayerTwo, 25 + 2, 25 + 2);
             
             int x, y,w,h,ox,oy;
-            x = 20;
-            y = 20;
+            x = 30;
+            y = 30;
             w = 2;
             h = 16;
             ox = 25;
